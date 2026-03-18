@@ -1,0 +1,4 @@
+nmap -sS target        (quick scan)
+nmap -A target         (aggressive scan)
+nmap -p- target        (all ports)
+nmap -sV target        (service version)

@@ -1,0 +1,5 @@
+Check sender domain
+Check SPF/DKIM/DMARC
+Inspect links
+Decode data (CyberChef)
+Check attachments

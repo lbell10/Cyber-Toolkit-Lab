@@ -1,0 +1,5 @@
+Check running processes (Process Explorer)
+Check connections (TCPView)
+Check startup items (Autoruns)
+Check logs (Event Viewer)
+Look for unusual behavior
