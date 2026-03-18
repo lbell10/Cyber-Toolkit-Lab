@@ -1,35 +1,47 @@
-# 🔐 Cyber Toolkit Lab
+# 🔐 Cyber Toolkit Lab™
+
+### Built by Leonard Bell Jr.
+
+> A custom-built SOC investigation toolkit designed to simulate real-world cybersecurity workflows and incident response processes.
+
+---
+
+## 🚀 Version
+
+**v1.0 – Initial Release**
+
+---
 
 ## 📌 Overview
 
-The **Cyber Toolkit Lab** is a structured, hands-on environment designed to simulate real-world Security Operations Center (SOC) workflows.
+Cyber Toolkit Lab™ is a hands-on cybersecurity project that integrates multiple industry-standard tools into a unified workflow for Security Operations Center (SOC) analysis.
 
-This project focuses on building practical experience using industry-standard tools to investigate, analyze, and respond to potential security incidents.
+This toolkit is designed to mimic real-world investigation environments, enabling efficient triage, analysis, and response to potential security threats.
 
 ---
 
 ## 🎯 Objectives
 
-* Develop a repeatable SOC investigation workflow
+* Build a structured SOC investigation workflow
 * Gain hands-on experience with cybersecurity tools
-* Improve incident triage and analysis skills
-* Build a portfolio demonstrating real-world capabilities
+* Improve incident response and triage skills
+* Develop a professional cybersecurity portfolio
 
 ---
 
-## 🧰 Tools Used
+## 🧰 Tools Integrated
 
-* **Nmap** – Network scanning and reconnaissance
-* **Wireshark** – Packet capture and traffic analysis
-* **Process Explorer** – Process monitoring and analysis
-* **Autoruns** – Persistence detection
-* **CyberChef** – Data decoding and transformation
+* Nmap – Network scanning and reconnaissance
+* Wireshark – Packet capture and analysis
+* Process Explorer – Process monitoring
+* Autoruns – Persistence detection
+* CyberChef – Data decoding and transformation
 
 ---
 
-## ⚙️ Features
+## ⚙️ Core Features
 
-* Custom `.bat` launcher for quick tool access
+* Custom launcher for fast tool access
 * Organized investigation workflow structure
 * Integrated cheat sheets and knowledge base
 * Dedicated folders for:
@@ -41,27 +53,27 @@ This project focuses on building practical experience using industry-standard to
 
 ---
 
-## 🔁 Example Workflow
+## 🔁 Example SOC Workflow
 
-1. Run **Nmap** scan to identify open ports and services
-2. Capture traffic using **Wireshark**
-3. Analyze processes with **Process Explorer**
-4. Check persistence mechanisms using **Autoruns**
-5. Decode suspicious data with **CyberChef**
+1. Perform network reconnaissance using Nmap
+2. Capture and inspect traffic with Wireshark
+3. Analyze running processes via Process Explorer
+4. Identify persistence mechanisms using Autoruns
+5. Decode suspicious artifacts with CyberChef
 
 ---
 
-## 🧰 Toolkit Menu
+## 🧰 Toolkit Interface
 
-This is the custom-built investigation launcher used to quickly access tools during incident response.
+The custom launcher provides centralized access to all tools used during investigations.
 
 ![Toolkit Menu](Screenshots/Toolkit-menu.png)
 
-**What this demonstrates:**
+**Capabilities:**
 
-* Centralized access to investigation tools
-* Structured SOC workflow execution
-* Faster triage and response capability
+* Rapid tool deployment
+* Streamlined investigation flow
+* Improved response efficiency
 
 ---
 
@@ -69,9 +81,9 @@ This is the custom-built investigation launcher used to quickly access tools dur
 
 * Network reconnaissance and analysis
 * Packet inspection and traffic analysis
-* Endpoint investigation
-* Persistence detection techniques
-* Data decoding and threat analysis
+* Endpoint investigation techniques
+* Persistence detection methods
+* Threat data decoding
 * SOC workflow design and execution
 
 ---
@@ -86,20 +98,37 @@ Cyber-Toolkit-Lab/
 ├── Screenshots/
 │   └── Toolkit-menu.png
 ├── README.md
+├── LICENSE
 ```
 
 ---
 
-## 🚀 Future Improvements
+## 🔒 Ownership & Usage
 
-* Add real incident case studies
-* Include detection rules (Sigma / SIEM queries)
-* Expand malware analysis section
-* Automate parts of the investigation workflow
+This project was designed and developed by **Leonard Bell Jr.** as part of a cybersecurity learning and portfolio initiative.
+
+All third-party tools referenced remain the property of their respective owners.
 
 ---
 
-## 📈 Purpose
+## 📈 Roadmap (Next Up)
 
-This project is part of my journey toward becoming a **SOC Analyst / Cybersecurity Professional**, with a focus on building real, hands-on skills that translate directly to the field.
+* Add real incident investigation case study
+* Include SIEM queries and detection rules
+* Expand malware analysis workflows
+* Automate parts of the investigation process
+
+---
+
+## 🏷️ License
+
+This project is licensed under the MIT License.
+
+---
+
+## 💼 Author
+
+**Leonard Bell Jr.**
+Aspiring SOC Analyst | Cybersecurity Enthusiast
+
 
