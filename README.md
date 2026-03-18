@@ -63,3 +63,9 @@ Demonstrates:
 ---
 
 ## 📁 Project Structure
+
+---
+
+## Toolkit Menu
+
+![Toolkit Menu](Screenshots/Toolkit-menu.png)
